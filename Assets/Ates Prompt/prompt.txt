@@ -1,0 +1,7 @@
+unity de yeniyim yapacağım proje 
+-oyunun geçeceği bir çok mekan var benim yapmak istediğim demo video şeklinde akıllı şehirleri anlatıcak
+-amacı hem eğtisel hem görsel açıdan olucak mesela güneş enerjisi ne sağlar rüzgar gülü nasıl çalışı vb.
+-amacı akıllı şehirlei anlatmak yeşil enerji vb.
+-oynanış olarak pek bir şey olmayacak sadece her mekanda mekanın temasına göre tutulup bakılabilenek şeyler olucak
+-Önerilerin varsa söyleyebilirsin.
+Bu proje için temel akış şeması oluştur ve bana anlat. Şemayı onayladıktan sonra kodlamaya part part geçeceğiz. Anlatım şeklin nereye tıklayacağım ve ne yapacağım üzerine olmalı. Temel olarak boş bir sahne açtım Camera-rig sistemini kurdum ve metaquest-all-in-one sdk kullanıyorum tüm kodlama sistemi de bunun üzerinden ilerlemeli.
